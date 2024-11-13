@@ -1,4 +1,4 @@
-# Gym Management Project - by Sagar Patil
+# Gym Management Project - by Harshal Jadhav
 
 ## Overview
 This project is a web application designed to manage gym memberships, payments, and notifications. It provides features for both admin and members, allowing for efficient tracking and management of gym-related activities.
