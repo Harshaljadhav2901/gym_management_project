@@ -18,4 +18,4 @@ This project is a web application designed to manage gym memberships, payments, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sagarpatil8421/Gym_Management_Project
+   git clone https://github.com/Harshaljadhav2901/gym_management_project
